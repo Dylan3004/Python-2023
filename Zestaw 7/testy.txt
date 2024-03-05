@@ -1,0 +1,25 @@
+Sorting: bubble_sort
+R:Array sorted in 6.9 ms. Number of operations: 4878
+S:Array sorted in 3.3 ms. Number of operations: 2450
+A:Array sorted in 13.3 ms. Number of operations: 7350
+T:Array sorted in 18.4  ms. Number of operations: 3696
+Sorting: shell_sort
+R:Array sorted in 1.6 ms. Number of operations: 1095
+S:Array sorted in 0.9 ms. Number of operations: 609
+A:Array sorted in 2.1 ms. Number of operations: 879
+T:Array sorted in 3.1  ms. Number of operations: 663
+Sorting: merge_sort
+R:Array sorted in 0.9 ms. Number of operations: 572
+S:Array sorted in 0.9 ms. Number of operations: 572
+A:Array sorted in 1.8 ms. Number of operations: 572
+T:Array sorted in 2.7  ms. Number of operations: 544
+Sorting: quick_sort
+R:Array sorted in 1.5 ms. Number of operations: 1030
+S:Array sorted in 9.0 ms. Number of operations: 6370
+A:Array sorted in 14.3 ms. Number of operations: 3870
+T:Array sorted in 17.1  ms. Number of operations: 2008
+Sorting: tim_sort
+R:Array sorted in 1.6 ms. Number of operations: 1124
+S:Array sorted in 0.3 ms. Number of operations: 244
+A:Array sorted in 3.2 ms. Number of operations: 2071
+T:Array sorted in 4.2  ms. Number of operations: 677
